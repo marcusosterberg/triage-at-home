@@ -1,0 +1,726 @@
+﻿-30;Medicinsk undersökning / grundlig
+-31;Medicinsk undersökning / partiell
+-32;Allergitest
+-33;Mikrobiologiskt /annat immunologiskt test
+-34;Blodprov
+-35;Urinprov
+-36;Avföringsprov
+-37;Histologiskt / cytologiskt prov
+-38;Annat laboratorieprov UNS
+-39;Kliniskt funktionstest
+-40;Diagnostisk endoskopi
+-41;Radiologisk diagnostik eller annan bilddiagnostik
+-42;Elektrofysiologisk undersökning
+-43;Annan diagnostisk åtgärd
+-44;Preventiv immunisering / medicinering
+-45;Observation / hälsofostran / rådgivning / dietrådgivning
+-46;Konsultation med person yrkesverksam inom primärvården
+-47;Specialistkonsultation
+-48;Utredning av patientens kontaktorsak / -behov
+-49;Annan förebyggande åtgärd
+-50;Medicinering /ordination / förnyelse / injektion
+-51;Incision / dränage/ sköljning / aspiration
+-52;Excision / avlägsnande av vävnad/biopsi / destruktion / revision / kauterisation
+-53;Katetrisering / intubering /dilatation
+-54;Reparation / fixation / suturering / gipsning/ protetik (applikation/borttagning)
+-55;Lokal injektion / infiltration
+-56;Förbindning/tryckförband/tamponad
+-57;Fysioterapi / rehabilitering
+-58;Terapeutisk rådgivning / lyssnande
+-59;Annan terapeutisk åtgärd/ mindre kirurgiskt ingrepp
+-60;Resultat av test /åtgärd /
+-61;Resultat av test /åtgärd /sjukjournal föreskriven av annan vårdgivare
+-62;Administrativa åtgärder
+-63;Uppföljningsbesök, ospecificerat
+-64;Besök/problem initierat av vårdgivaren
+-65;Besök/problem initierat av annan än patienten eller vårdgivaren
+-66;Remiss till annan vårdgivare/skötare/terapeut/socialarbetare
+-67;Remiss till läkare/specialist/poliklinik/sjukhus/specialsjukvård
+-68;Annan remiss UNS
+-69;Annan orsak för kontakt UNS
+A01;Allmän smärta / flera platser
+A02;Frossbrytningar
+A03;Feber
+A04;Allmän svaghet / trötthet
+A05;Sjukdomskänsla
+A06;Svimning
+A07;Medvetslöshet
+A08;Svullnad
+A09;Svettningsproblem
+A10;Blödning UNS
+A11;Bröstsmärta UNS
+A13;Bekymmer för läkemedelsreaktion 
+A16;Retlighet hos spädbarn
+A18;Problem med utseende
+A20;Begäran/diskussion om eutanasi
+A21;Risk för malignitet
+A23;Riskfaktor UNS
+A25;Rädsla för döden
+A26;Rädsla för cancer UNS
+A27;Rädsla för annan sjukdom UNS
+A28;Funktionsbegränsning/ handikapp UNS
+A29;Annat allmänt symptom/besvär
+A70;Tuberkulos
+A71;Mässling
+A72;Vattkoppor
+A73;Malaria
+A74;Röda hund
+A75;Mononukleos
+A76;Annan virussjukdom med utslag
+A77;Annan virussjukdom UNS
+A78;Annan infektiös sjukdom UNS
+A79;Cancer, ospecificerad
+A80;Skada, ospecificerad
+A81;Skador, multipla
+A82;Sen följd av skada
+A84;Läkemedelsförgiftning
+A85;Läkemedelsbiverkan
+A86;Giftverkan av annan substans
+A87;Komplikation av kirurgisk/medicinsk behandling
+A88;Skadeverkan av fysisk faktor
+A89;Inverkan av implantat/främmande material
+A90;Medfödd missbildning UNS / multipla
+A91;Avvikande undersökningsfynd UNS
+A92;Allergi eller allergisk reaktion UNS
+A93;Prematur/immatur nyfödd
+A94;All annan prenatal sjuklighet
+A95;Perinatal död
+A96;Död
+A97;Ingen sjukdom
+A98;Hälsovård eller förebyggande av sjukdom
+A99;Sjukdom/tillstånd av ospecificerad natur/lokalisation
+B02;Lymfkörtel, förstorad/smärtsam
+B04;Symptom från blod/lymfatisk vävnad 
+B25;Rädsla för AIDS/HIV
+B26;Rädsla för cancer i blodbildande organ/lymfatisk vävnad
+B27;Rädsla för annan sjukdom i blod /lymfatisk vävnad
+B28;Funktionsbegränsning/handikapp betr. blod och de blodbildande organen
+B29;Annat symptom/besvär i lymf-/immunsystem
+B70;Akut lymfkörtelsinflammation
+B71;Kronisk/ospecifik lymfkörtelsinflammation
+B72;Hodgkins sjukdom/lymfom
+B73;Leukemi
+B74;Annan malign tumör i blodbildande organ 
+B75;Benign/ospecificerad tumör i blodbildande organ
+B76;Mjältruptur, traumatisk
+B77;Annan skada på blodbildande organ/lymfatisk vävnad/mjälte 
+B78;Ärftlig hemolytisk anemi
+B79;Annan anomali i blodbildande organ eller immunsystemet
+B80;Järnbristanemi
+B81;Anemi, B12-vitamin-/folsyrebrist
+B82;Anemi, annan/ospecificerad
+B83;Purpura/koagulationsdefekt/avvikande trombocyter
+B84;Avvikelse av vita blodkroppar, oförklarlig 
+B87;Mjältförstoring
+B90;HIV-infektion/AIDS
+B99;Annan sjukdom i blod/blodbildande organ/lymfatisk vävnad/mjälte
+D01;Allmän buksmärta / magkramp
+D02;Magsmärta / värk i epigastriet
+D03;Halsbränna
+D04;Smärta i ändtarm / anus
+D05;Klåda kring analöppningen
+D06;Annan lokaliserad buksmärta
+D07;Dyspepsi / annan matsmältningsrubbning
+D08;Flatulens / väderspänning / rapning
+D09;Illamående
+D10;Uppkastning
+D11;Diarré
+D12;Förstoppning
+D13;Gulsot
+D14;Hematemes / blodkräkning
+D15;Melena
+D16;Blödning från ändtarmen
+D17;Avföringsinkontinens
+D18;Förändring i avföring / avföringsvanor
+D19;Symptom / besvär betr. tänder / tandkött
+D20;Symptom / besvär betr. mun/tunga/läppar
+D21;Sväljningssvårigheter
+D23;Leverförstoring
+D24;Utfyllnad i buken UNS
+D25;Spänd mage
+D26;Rädsla för cancer i matsmältningsorganen
+D27;Rädsla för annan matsmältningssjukdom
+D28;Funktionsbegränsning / handikapp (D)
+D29;Matsmältningssymptom / besvär, annat
+D70;Gastrointestinal infektion
+D71;Påssjuka
+D72;Virushepatit
+D73;Gastroenterit, förmodad infektion
+D74;Malign tumör i magsäcken
+D75;Malign tumör i tjocktarm / ändtarm
+D76;Malign tumör i bukspottskörtel
+D77;Annan malign tumör i matsmältningsorgan
+D78;Benign eller ospecificerad tumör (D)
+D79;Främmande kropp i naturlig öppning
+D80;Annan skada på matsmältningsorgan
+D81;Medfödd missbildning i matsmältningsorg.
+D82;Sjukdom i tänder / tandkött
+D83;Sjukdom i mun / tunga / läpp
+D84;Sjukdom i matstrupen
+D85;Duodenalsår
+D86;Peptiskt sår, annat
+D87;Störning i macksäckens funktion / gastrit
+D88;Blindtarmsinflammation
+D89;Ljumskbråck
+D90;Mellangärdsbråck
+D91;Annat bukbråck
+D92;Divertikelsjukdom
+D93;Colon irritabile
+D94;Crohns sjukdom / ulcerös kolit
+D95;Analfissur 7 perianal abscess
+D96;Maskar / andra parasiter
+D97;Leversjukdom UNS
+D98;Inflammation i gallblåsa / gallsten
+D99;Annan sjukdom i matsmältningsorganen
+F01;Ögonsmärta
+F02;Rött öga
+F03;Tårflöde från öga
+F04;Fotopsi / ljusfläckar i synfält
+F05;Annan störning i synförmåga
+F13;Onormal förnimmelse i öga
+F14;Avvikande ögonrörelser
+F15;Ögonens avvikande utseende
+F16;Ögonlockssymptom / -besvär
+F17;Symptom / besvär av glasögon
+F18;Symptom / besvär av kontaktlinser
+F27;Rädsla för ögonsjukdom
+F28;Funktionsbegränsning/ handikapp (öga)
+F29;Annat ögonsymptom / -besvär
+F70;Infektiös konjunktivit
+F71;Allergisk konjunktivit
+F72;Ögonlocksinflammation / chalazion / vagel
+F73;Annan infektion / inflammation i öga
+F74;tumör i öga / omgivande vävnad
+F75;Kontusion / blodutgjutning i öga
+F76;Främmande kropp i öga
+F79;Annan ögonskada
+F80;Täppt tårkanal hos nyfödd
+F81;Annan medfödd ögonmissbildning
+F82;Näthinneavlösning
+F83;Retinopati
+F84;Degeneration an macula
+F85;Hornhinneulceration
+F86;Trakom
+F91;Brytningsfel
+F92;Grå starr
+F93;Glaukom
+F94;Blindhet
+F95;Skelning
+F99;Annan ögonsjukdom
+H01;Öronvärk
+H02;Hörselbesvär
+H03;Ringning / susning / tinnitus
+H04;Sekretion från öra
+H05;Blodi/uröra
+H13;Lockkänsla i öra
+H15;Bekymmer över öronens utseende
+H27;Rädsla för öronsjukdom
+H28;Funktionsbegränsning/ handikapp (öra)
+H29;Annat öronsymptom / besvär
+H70;Örongångsinflammation / extern otit
+H71;Akut mellanöre- / trumhinneinflammation
+H72;Serös mellanöreinflammation / limöra
+H73;Otosalpingit
+H74;Kronisk mellanöreinflammation
+H75;tumör i öra
+H76;Främmande kropp i öra
+H77;Trumhinneperforation
+H78;Ytlig öronskada
+H79;Annan öronskada
+H80;Medfödd öronmissbildning
+H81;Vaxpropp
+H82;Yrselsyndrom
+H83;Otoskleros
+H84;Presbyacusis / nedsatt hörsel pga ålder
+H85;Bullerskada
+H86;Dövhet
+H99;Annan sjukdom i öra / proc. mastoideus
+K01;Hjärtrelaterad smärta
+K02;Tryck- / obehagskänsla i hjärtat
+K03;Smärta relaterad till blodcirkulationen UNS
+K04;Hjärtklappning, medvetenhet om hjärtat
+K05;Annan avvikande/ oregelbunden hjärtrytm
+K06;Framträdande vener
+K07;Svullna vrister / ödem
+K22;Riskfaktor för kardiovaskulär sjukdom
+K24;Rädsla för hjärtsjukdom
+K25;Rädsla för blodtryckssjukdom
+K27;Rädsla för annan blodcirkulationssjukdom
+K28;Funktionsbegränsing/handikapp (cirk.org)
+K29;Annat symptom / besvär (cirkulationsorg.)
+K70;Infektionssjukdom i cirkulationsorganen
+K71;Reumatisk feber / hjärtsjukdom
+K72;tumör i cirkulationsorganen
+K73;Medfödd missbildning i cirkulationsorgan
+K74;Ischemisk hjärtsjukdom med angina
+K75;Akut hjärtinfarkt
+K76;Ischemisk hjärtsjukdom utan angina
+K77;Hjärtsvikt
+K78;Förmaksflimmer / -fladder
+K79;Paroxysmal takykardi
+K80;Hjärtarrytmi UNS
+K81;Hjärtbiljud UNS
+K82;Cor pulmonale
+K83;Klaffel, ej reumatiskt UNS
+K84;Annan hjärtsjukdom
+K85;Förhöjt blodtryck
+K86;Blodtryckssjukdom, okomplicerad
+K87;Blodtryckssjukdom, med komplitationer
+K88;Ortostatisk hypotoni
+K89;Transitorisk cerebral ischemi
+K90;Hjärnslag / cerebrovaskulär skada
+K91;Cerebrovaskulär sjukdom
+K92;Atheroskleros / perifer vaskulär sjukdom
+K93;Lungemboli
+K94;Flebit / tromboflebit
+K95;Åderbråck på ben
+K96;Hemorrojder
+K99;Annan sjukdom i cirkulationsorganen
+L01;Nacksymptom / -besvär
+L02;Ryggsymptom/ - besvär
+L03;Korsryggsbesvär utan utstrålning
+L04;Bröstkorgssymptom / -besvär
+L05;Flank- / armhålesymptom/besvär
+L07;Käksymptom /-besvär
+L08;Skuldersymptom / -besvär
+L09;Armsymptom / -besvär
+L10;Armbågssymptom/ -besvär
+L11;Handlovssymptom /-besvär
+L12;Hand- & fingersymptom/ -besvär
+L13;Höftsymptom/ -besvär
+L14;Lår- /vadsymptom / -besvär
+L15;Knäsymptom /-besvär
+L16;Vristsymptom /-besvär
+L17;Fot- / tåsymptom/ -besvär
+L18;Muskelsmärta
+L19;Symptom / besvär i flera/ospec. muskler
+L20;Symptom / besvär i flera/ospec. Leder
+L26;Rädsla för muskuloskeletal cancer
+L27;Rädsla för annan muskuloskeletal sjukdom
+L28;Funktionsbegränsning / handikapp (L)
+L29;Annat muskuloskeletalt symptom / besvär
+L70;Infektion i muskuloskeletalt organ
+L71;Malign tumör i muskuloskeletalt organ
+L72;Fraktur av radius / ulna
+L73;Fraktur av tibia / fibula
+L74;Fraktur av handens / fotens ben
+L75;Fraktur av lårben
+L76;Annan fraktur
+L77;Stukning / försträckning av vrist
+L78;Stukning / försträckning av knä
+L79;Stukning / försträckning av annan led
+L80;Dislokation
+L81;Annan muskuloskeletal skada
+L82;Medfödd muskuloskeltal missbildning
+L83;Nacksyndrom
+L84;Ryggsjukdom utan utstrålning
+L85;Förvärvad ryggradsdeformitet
+L86;Ryggsjukdom med utstrålning
+L87;Bursit / tenovit / synovit, ospecificerad
+L88;Rheumatoid / seropositiv artrit
+L89;Höftledsartros
+L90;Knäledsartros
+L91;Annan artros
+L92;Skuldersyndrom
+L93;Tennisarmbåge
+L94;Osteochondros
+L95;Osteoporos
+L96;Akut meniskskada i knä
+L97;Benign / ospec.muskuloskeletal tumör
+L98;Förvärvad deformitet i extremiteterna
+L99;Annan muskuloskeletal sjukdom
+N01;Huvudvärk
+N03;Ansiktssmärta
+N04;Restless legs
+N05;Myrkrypningar i fingrar / fötter / tår
+N06;Annan känslorubbning
+N07;Kramper / krampanfall
+N08;Onormala ofrivilliga rörelser
+N16;Smak- och luktrubbningar
+N17;Svindel / yrsel
+N18;Förlamning / svaghet
+N19;Talrubbingar
+N26;Rädsla för cancer i nervsystemet
+N27;Rädsla för annan nervsjukdom
+N28;Funktionsbegränsning / handikapp (N)
+N29;Annat symptom/ besvär i nervsystemet
+N70;Poliomyelit
+N71;Meningit / encefalit
+N72;Tetanus / stelkramp
+N73;Annan infektion i nervsystemet
+N74;Malign tumör i nervsystemet
+N75;Benign tumör i nervsystemet
+N76;tumör UNS i nervsystemet
+N79;Hjärnskakning
+N80;Annan huvudskada
+N81;Annan skada på nervsystemet
+N85;Medfödd missbildning i nervsystemet
+N86;Multipel skleros
+N87;Parkinsonism
+N88;Epilepsi
+N89;Migrän
+N90;Clusterhuvudvärk
+N91;Ansiktsförlamning / Bells pares
+N92;Trigeminusneuralgi
+N93;Karpaltunnelsyndrom
+N94;Perifer neurit eller neuropati
+N95;Spänningshuvudvärk
+N99;Annan sjukdom i nervsystemet
+P01;Känsla av ångest / nervositet / spänning
+P02;Akut stressreaktion
+P03;Känna sig deprimerad
+P04;Retlighet / retligt beteende
+P05;Senilitet / åldringskänsla / -beteende
+P06;Sömnrubbning
+P07;Nedsatt sexualdrift
+P08;Nedsatt förmåga till sexuell tillfredsställelse
+P09;Bekymmer angående sexuell preferens
+P10;Stamning /skenande tal / tics
+P11;Problem med ätande hos barn
+P12;Sängvätning / enures
+P13;Enkopres
+P15;Kroniskt alkoholmissbruk
+P16;Akut alkoholmissbruk
+P17;Tobaksmissbruk
+P18;Medicinmissbruk
+P19;Drogmissbruk
+P20;Minnesstörning
+P22;Beteendesymptom / -besvär hos barn
+P23;Specifikt inlärningsproblem
+P24;Beteendesymptom / -besvär hos ungdom
+P25;Livskris hos vuxen
+P27;Rädsla för sinnessjukdom
+P28;Psykisk funktionsbegränsning / handikapp
+P29;Annat psykiskt symptom / besvär
+P70;Demens
+P71;Annan organisk psykos
+P72;Skizofreni
+P73;Affektiv psykos
+P74;Ångeststörning /- tillstånd
+P75;Somatiseringssyndrom
+P76;Depressiv sjukdom
+P77;Självmord / självmordsförsök
+P78;Neurasteni / uttrötthet
+P79;Fobi / obsessiv-kompulsi störning
+P80;Personlighetsstörning
+P81;Hyperkinetiskt syndrom
+P82;Post-traumatiskt stressyndrom
+P85;Förståndshandikapp
+P86;Anorexia nervosa / bulimi
+P98;Annan psykos / Psykos UNS
+P99;Annan psykisk störning
+R01;Smärta relaterad till andningsorganen
+R02;Andnöd
+R03;Pipande andning
+R04;Annat andningsproblem
+R05;Hosta
+R06;Näsblod
+R07;Nysning / nästäppa
+R08;Annat nässymptom / -besvär
+R09;Symptom / besvär betr. näsans bihålor
+R21;Symptom / besvär beträffande strupen
+R23;Symptom / besvär beträffande rösten
+R24;Blodhosta
+R25;Avvikande sputum / upphostning
+R26;Rädsla för cancer i andningsorganen
+R27;Rädsla för annan sjukdom i andningsorgan
+R28;Funktionsbegränsning / handikapp (R)
+R29;Annat symptom / besvär i andningsorganen
+R71;Kikhosta
+R72;Streptokockfaryngit
+R73;Furunkel / böld i näsan
+R74;Akut övre luftvägsinfektion
+R75;Akut / kronisk sinuit
+R76;Akut tonsillit
+R77;Akut laryngit / trakeit
+R78;Akut bronkit / bronkiolit
+R79;Kronisk bronkit
+R80;Influensa
+R81;Lunginflammation
+R82;Pleurasmärta eller pleuravätska
+R83;Annan infektion i andningsorganen
+R84;Malign tumör i luftrör / lunga
+R85;Annan malign tumör i andningsorganen
+R86;Benign tumör i andningsorganen
+R87;Främmande kropp i andningsvägarna
+R88;Annan skada i andningsorganen
+R89;Medfödd missbildning i andningsorganen
+R90;Hypertrofi an tonsiller / adenoider
+R92;tumör i andningsorganen UNS
+R95;Kronisk obstruktiv lungsjukdom
+R96;Astma
+R97;Allergisk snuva
+R98;Hyperventilation
+R99;Annan sjukdom i andningsorganen
+S01;Smärta / ömhet i huden 
+S02;Klåda
+S03;Vårtor
+S04;Lokal svullnad / knöl
+S05;Generaliserad svullnad / knölar 
+S06;Lokalt utslag
+S07;Generaliserat utslag
+S08;Annan förändring av hudfärgen 
+S09;Infektion i finger / tå
+S10;Böld
+S11;Posttraumatisk hudinfektion
+S12;Insektbett / -stick
+S13;Bett av djur / -människa
+S14;Brännskada / skållning
+S15;Främmande kropp i huden
+S16;Kontusion
+S17;Hudavskrapning / skråma / blåsa
+S18;Laceration / skärsår
+S19;Annan hudskada
+S20;Förhorning / kallositet
+S21;Symptom / besvär betr. hudens konsistens 
+S22;Nagelsymtom / -besvär
+S23;Skallighet / håravfall
+S24;Annat symptom/besvär fr. hår / huvudsvål 
+S26;Rädsla för hudcancer
+S27;Rädsla för annan hudsjukdom
+S28;Funktionsbegränsning / handikapp (S) 
+S29;Annat hudsymptom / besvär
+S70;Bältros
+S71;Herpes simplex
+S72;Skabb / annan akarinos
+S73;Lusangrepp / annan hudinfestation
+S74;Dermatofytos / svampinfektion i huden 
+S75;Moniliasis / candidainfektion i huden
+S76;Annan hudinfektion
+S77;Malign hudtumör
+S78;Lipom
+S79;Annan benign hudtumör / UNS
+S80;Solutlöst brännskada eller keratos
+S81;Hemangiom / lymfangiom
+S82;Nevus
+S83;Annan medfödd missbildning i hud
+S84;Impetigo
+S85;Pilonidal cysta / fistel
+S86;Seborroisk dermatit
+S87;Atopiskt utslag /eksem
+S88;Allergiskt eksem / kontaktdermatit
+S89;Blöjutslag
+S90;Pityriassis rosea
+S91;Psoriasis
+S92;Sjukdom i svettkörtlar
+S93;Aterom
+S94;Ingrodd tånagel
+S95;Mollusker
+S96;Akne
+S97;Kroniskt hudsår
+S98;Urtikaria
+S99;Annan sjukdom i huden
+T01;Överdriven törst
+T02;Överdriven aptit
+T03;Aptitlöshet
+T04;Matningsproblem hos spädbarn / barn 
+T05;Problem med födointag hos vuxen
+T07;Viktökning
+T08;Viktförlust
+T10;Utebliven förväntad tillväxt
+T11;Dehydrering
+T26;Rädsla för cancer i endokrina organ
+T27;Rädsla för endokrin/ nutritionell sjukdom 
+T28;Funktionsbegränsning / handikapp (T)
+T29;Annat endokr/metabol/nutrit. symptom
+T70;Infektionssjukdom i endokrint organ
+T71;Malign tumör i sköldkörtel
+T72;Benign tumör i sköldkörtel
+T73;Annan / ospecificerad tumör i sköldkörtel 
+T78;Persistent ductus thyroglossus
+T80;Annan missbildning i endokrina organ
+T81;Struma
+T82;Signifikant / svår fetma
+T83;Lindrig fetma
+T85;Hypertyreos / tyreotoxikos
+T86;Hypotyreos / myxödem
+T87;Hypoglykemi
+T89;Juvenil diabetes
+T90;Vuxen diabetes
+T91;Vaitamin- / nutritionell brist
+T92;Gikt
+T93;Dyslipidemi
+T99;Annan endokrin/metabolisk/nutrit. sjukdom
+U01;Smärta vid urinering / dysuri
+U02;Täta urinträngningar / pollakisuri
+U04;Urininkontinens
+U05;Annat urineringsproblem
+U06;Blod i urinen
+U07;Annat urinsymptom/ -besvär
+U08;Urinretention
+U13;Annat urinblåsesymptom/ -besvär
+U14;Njursymptom / -besvär
+U26;Rädsla för urinvägscancer
+U27;Rädsla för annan urinvägssjukdom
+U28;Funktionsbegränsning / handikapp (U)
+U29;Annat urinorganssymptom / -besvär
+U70;Pyelonefrit / njurbäckeninflammation
+U71;Cystit / blåskatarr/annan urinvägsinfektion
+U72;Uretrit
+U75;Malign njurtumör
+U76;Malign blåstumör
+U77;Benign tumör i urinvägarna
+U78;tumör i urinvägarna UNS
+U79;tumör i urinvägarna UNS
+U80;Skada på urinorgan
+U85;Medfödd missbildning i urinvägarna 
+U88;Glomerulonefrit / nefros
+U90;Ortostatisk albuminuri
+U95;Sten i urinvägarna
+U98;Avvikande urinprov UNS
+U99;Annan sjukdom i urinvägarna
+W01;Eventuell graviditet
+W02;Graviditetsrädsla
+W03;Blödning under graviditet
+W05;Uppkastning / illamående under graviditet 
+W10;Postkoital konception
+W11;Kontraception med p-piller
+W12;Intrauterin kontraception
+W13;Sterilisering
+W14;Annan kontraception
+W15;Infertilitet / subfertilitet
+W17;Post-partum blödning
+W18;Annat post-partum-symptom / -besvär 
+W19;Amningssymptom / -besvär
+W21;Bekymmer för utseende under graviditet 
+W27;Rädsla för graviditetskomplikation
+W28;Funktionsbegränsning / handikapp (W) 
+W29;Annat symptom / besvär betr. graviditet 
+W70;Barnsängsfeber / sepsis
+W71;Infektion, som komplicerar graviditet
+W72;Malign tumör relaterad till graviditet
+W73;Godartad eller tumör UNS under graviditet 
+W75;Skada, som komplicerar graviditet
+W76;Medfödd missbildning, som komplicerar 
+W78;Graviditet
+W79;Oönskad graviditet
+W80;Extrauterin graviditet
+W81;Graviditetstoxemi
+W82;Spontan abort
+W83;Inducerad abort
+W84;Högriskgraviditet
+W85;Diabetes under graviditet
+W90;Normal förlossning, levande född
+W91;Normal förlossning, dödfödd
+W92;Komplicerad förlossning, levande född 
+W93;Komplicerad förlossning, dödfödd
+W94;Bröstinfektion / mastit under puerperiet 
+W95;Annan bröstkörtelrubbing, gravid./amning 
+W96;Annan puerperal komplikation
+W99;Annan graviditets/förlossnings/puerperal rubbning
+X01;Smärta i genitalier hos kvinna 
+X02;Smärtsam menstruation
+X03;Smärta mellan menstruationer 
+X04;Smärtsamt samlag
+X05;Menstruation, utebliven / sparsam
+X06;Riklig menstruation
+X07;Oregelbunden / frekvent menstruation 
+X08;Intermenstruell blödning
+X09;Premenstruella symptom
+X10;Utsättande av menstruation
+X11;Menopausalt symptom / komplikation
+X12;Postmenopausal blödning
+X13;Blödning efter samlag
+X14;Flytning ur slidan
+X15;Annat vaginalt symptom / besvär
+X16;Vulvasymptom / -besvär
+X17;Bäckensymptom / -besvär hos kvinna
+X18;Smärta i kvinnlig bröstkörtel
+X19;Knöl i kvinnlig bröstkörtel
+X20;Symptom / besvär i kvinnlig bröstvårta 
+X21;Annat symptom i kvinnlig bröstkörtel
+X22;Problem med bröstutseende hos kvinna 
+X23;Rädsla hos kvinna för könssjukdom
+X24;Rädsla för sexuell dysfunktion hos kvinna 
+X25;Rädsla för cancer i kvinnliga genitalier 
+X26;Rädsla för bröstcancer hos kvinna
+X27;Rädsla för annan bröstsjukdom hos kvinna 
+X28;Funktionsbegränsing / handikapp (X)
+X29;Annat symptom i kvinnliga genitalia
+X70;Syfilis hos kvinna
+X71;Gonorré hos kvinna
+X72;Urogenital moniliasis
+X73;Urogenital trichomoniasis
+X74;Inflammation i bäckenorgan hos kvinna 
+X75;Malign tumör i cervix
+X76;Malign tumör i bröstkörtel hos kvinna
+X77;Annan malign tumör i kvinnliga genitalia 
+X78;Myom i livmodern
+X79;Benign tumör i bröst
+X80;Annan benign tumör i kvinnliga genitalia 
+X81;Annan /odef. tumör i kvinnliga genitalia 
+X82;Skador på kvinnliga genitalia
+X83;Medfödd missbildning i kvinnliga genitalia 
+X84;Vaginit / vulvit UNS
+X85;Cervixsjukdom UNS
+X86;Avvikande fynd i utstrykspreparat
+X87;Uterovaginal prolaps
+X88;Cystisk mastopati
+X89;Premenstruellt spänningssyndrom
+X90;Genital herpes hos kvinna
+X91;Kondylom i kvinnliga genitalia
+X92;Klamydiainfektion i kvinnliga genitalia
+X99;Annan sjukdom i kvinnliga genitala
+Y01;Smärta i penis
+Y02;Smärta i testis / scrotum
+Y03;Flytning från penis / urinrör
+Y04;Annat symptom / besvär i penis
+Y05;Annat symptom / besvär i testis / scrotum
+Y06;Prostatasymptom / -besvär
+Y07;Impotens
+Y08;Sexuell funktion, symptom / besvär hos man
+Y10;Infertilitet / subfertilitet hos man
+Y13;Sterilisering hos man
+Y14;Annan manlig preventivrådgivning
+Y16;Symptom / besvär i manlig bröstkörtel
+Y24;Rädsla för sexuell dysfunktion hos man
+Y25;Rädsla hos man för könssjukdom
+Y26;Rädsla för cancer i manliga genitalia
+Y27;Rädsla för annan sjukdom i manliga genitalia
+Y28;Funktionsbegränsing / handikapp (Y)
+Y29;Annat symptom /besvär i manliga genitalia
+Y70;Syfilis hos man
+Y71;Gonorré hos man
+Y72;Genital herpes hos man
+Y73;Prostatit / prostatovesiculit
+Y74;Orkit / epididymit
+Y75;Balanit
+Y76;Condylom hos man
+Y77;Malign tumör i prostata
+Y78;Annan malign tumör i manliga genitalia
+Y79;Benign tumör i manliga genitalia
+Y80;Skada på manliga könsorgan
+Y81;Förhudsförträngning / överflödig förhud
+Y82;Hypospadi
+Y83;Retinerad testikel / kryptorkism
+Y84;Annan medfödd missbildning (manl.genit)
+Y85;Godartad prostatahyperplasii
+Y86;Hydrocele
+Y99;Annan sjukdom i manliga genitalia
+Z01;Fattigdom / ekonomiskt problem
+Z02;Födo- / vattenproblem
+Z03;Boende- och grannskapsproblem
+Z04;Sociokulturellt problem
+Z05;Arbetsproblem
+Z06;Arbetslöshetsproblem
+Z07;Utbildningsproblem
+Z08;Socialt välfärdsproblem
+Z09;Juridiskt problem
+Z10;Problem med hälsovårdssystemet
+Z11;Kompliansproblem / - att vara sjuk
+Z12;Problem i parförhållande
+Z13;Problem i partners beteende
+Z14;Problem med sjuk partner
+Z15;Förlust / död av partner
+Z16;Relationsproblem med barn
+Z18;Sjukdomsproblem med barn
+Z19;Problem relaterade till förlust / död av barn
+Z20;Problem i relationen till förälder / familjen
+Z21;Beteendeproblem hos förälder / i familjen
+Z22;Sjukdomsproblem hos förälder / i familjen
+Z23;Problem pga förlust / död av förälder
+Z24;Problem i förhållandet till vän
+Z25;Problem pga misshandel/skadlig händelse
+Z27;Rädsla för socialt problem
+Z28;Social funktionsbegränsing / handikapp (Z)
+Z29;Socialt problem UNS
