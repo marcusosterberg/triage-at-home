@@ -16,8 +16,9 @@ def post_image(image_url):
 	analysis = response.json()
 
 	image_caption = analysis["description"]["captions"][0]["text"].capitalize()
-	image_caption
-	print(image_url, "\n", image_caption)
+	image_tags = ', '.join(analysis["description"]["tags"])
+
+	print(f'Image URL: { image_url }\nDescription: { image_caption }\nTags: { image_tags }')
 
 import requests, sys
 
